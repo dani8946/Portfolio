@@ -1,13 +1,12 @@
 
 # 🧑‍💻 Personal Portfolio 🚀
 
-Welcome to my **personal portfolio website** — a dynamic, responsive React-based site showcasing my projects, skills, and achievements in Machine Learning, OCR, and more!
+Welcome to my **personal portfolio website** — a dynamic, responsive React-based site showcasing my projects, skills, and achievements in Machine Learning, HCI, more!
 
 ### 🎓 **About Me**
 - 👋 Hi, I’m **Daniel Kr Brahma**
 - 🏫 B.Tech (CSE) Graduate | Junior Research Fellow Aspirant
 - 💡 Passionate about tech for social impact, especially for underrepresented languages and communities.
-- 🔭 Currently working on: **Bodo OCR Project**
 - 🌱 Learning: **LLMs, CRNN Models, Tesseract Training**
 - 🏆 IEEE GCON 2025 Paper Accepted
 - ⚡ Fun fact: I build AI systems that understand low-resource languages 🌍
@@ -16,7 +15,7 @@ Welcome to my **personal portfolio website** — a dynamic, responsive React-bas
 
 ## ✨ **Website Preview**
 👉 [Live Site](https://portfolio-2h7l.vercel.app/)  
-*(Replace with your Vercel link)*
+
 
 ---
 
@@ -82,7 +81,7 @@ npm run build
 
 ## 🚀 **Deployment**
 
-This portfolio is **automatically deployed on [Vercel](https://vercel.com)**. Every push to the `main` branch triggers a new deployment.
+This portfolio is **automatically deployed on [Vercel](https://vercel.com)**. Every push to the `master` branch triggers a new deployment.
 
 ---
 
