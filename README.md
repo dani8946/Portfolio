@@ -14,7 +14,7 @@ Welcome to my **personal portfolio website** — a dynamic, responsive React-bas
 ---
 
 ## ✨ **Website Preview**
-👉 [Live Site](https://portfolio-two-phi-81.vercel.app/)  
+👉 [Live Site](https://portfolio-sooty-alpha-76.vercel.app/)  
 
 
 ---
@@ -24,7 +24,7 @@ Welcome to my **personal portfolio website** — a dynamic, responsive React-bas
 | Technology | Details |
 |------------|---------|
 | **Frontend** | React.js, Tailwind CSS, Framer Motion |
-| **Email Service** | EmailJS |
+| **Email Service** | Web3Forms |
 | **3D & Animations** | Three.js, React Three Fiber, React Parallax Tilt |
 | **Deployment** | Vercel |
 
@@ -35,7 +35,7 @@ Welcome to my **personal portfolio website** — a dynamic, responsive React-bas
 ✅ Responsive Design  
 ✅ Interactive 3D Earth Canvas  
 ✅ Smooth animations with Framer Motion  
-✅ Contact Form integrated with EmailJS  
+✅ Contact Form integrated with Web3Forms  
 ✅ Clean and modern UI with Tailwind CSS
 
 ---
@@ -60,9 +60,7 @@ npm install
 Create a `.env` file in the root directory and add:
 
 ```
-VITE_APP_EMAILJS_SERVICE_ID=your_service_id
-VITE_APP_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_APP_EMAILJS_PUBLIC_KEY=your_public_key
+VITE_WEB3FORMS_ACCESS_KEY=youraccesskey
 ```
 
 4️⃣ **Run Locally**
@@ -115,7 +113,7 @@ While this is my personal project, suggestions and improvements are always welco
 ## 📫 **Contact**
 
 📧 **Email:** [brahmadanielkr@gmail.com](mailto:brahmadanielkr@gmail.com)  
-🌐 **Portfolio:** [Visit Here](https://portfolio-two-phi-81.vercel.app/)
+🌐 **Portfolio:** [Visit Here](https://portfolio-sooty-alpha-76.vercel.app/)
 
 ---
 
