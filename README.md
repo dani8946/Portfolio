@@ -14,7 +14,7 @@ Welcome to my **personal portfolio website** — a dynamic, responsive React-bas
 ---
 
 ## ✨ **Website Preview**
-👉 [Live Site](https://portfolio-2h7l.vercel.app/)  
+👉 [Live Site](https://portfolio-two-phi-81.vercel.app/)  
 
 
 ---
@@ -115,7 +115,7 @@ While this is my personal project, suggestions and improvements are always welco
 ## 📫 **Contact**
 
 📧 **Email:** [brahmadanielkr@gmail.com](mailto:brahmadanielkr@gmail.com)  
-🌐 **Portfolio:** [Visit Here](https://portfolio-2h7l.vercel.app/)
+🌐 **Portfolio:** [Visit Here](https://portfolio-two-phi-81.vercel.app/)
 
 ---
 
