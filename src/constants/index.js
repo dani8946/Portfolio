@@ -53,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Data Scienctist",
+    title: "Data Scientist",
     icon: creator,
   },
 ];
@@ -138,7 +138,7 @@ const experiences = [
     ],
   },
   {
-    title: "AI/ML Intern(WBL)",
+    title: "AI/ML (WBL)",
     company_name: "NIELIT Kokrajhar EC",
     icon: NIELIT,
     iconBg: "#383E56",
