@@ -152,6 +152,26 @@ const experiences = [
   },
 ];
 
+const papers = [
+    {
+    title: "A Dynamic Approach of Web Pages' Rendering based on Network Speed",
+    venue: "Accepted on IEEE GCON",
+    year: "2025",
+    pages: "",
+    link: "",
+  },
+  {
+    title: "Impact of Augmented Reality : Applications in Education",
+    venue: "Computational Intelligence and Mathematical Applications",
+    year: "2024",
+    pages: "pp. 300-304",
+    link: "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003534112-49/impact-augmented-reality-applications-education-khushi-rao-daniel-kr-brahma-jagriti-das-alongbar-wary-gaurav-indra",
+  },
+
+];
+
+
+
 
 const projects = [
   {
@@ -282,4 +302,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences,  projects };
+export { services, papers, technologies, experiences,  projects };
