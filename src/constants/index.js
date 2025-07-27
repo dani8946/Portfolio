@@ -142,7 +142,7 @@ const experiences = [
     company_name: "NIELIT Kokrajhar EC",
     icon: NIELIT,
     iconBg: "#383E56",
-    date: "1st Aug 2024 - Present",
+    date: "1st Aug 2024 - 31st Jan 2025",
     points: [
       "Developed a real-time Emotion Detection system using CNN to classify human facial expressions, contributing to research in affective computing and intelligent systems.",
       "Conducted 5-day AI/ML workshop series under PM-Shri Programme across multiple educational institutions, delivering technical sessions and demonstrations.",
@@ -150,12 +150,34 @@ const experiences = [
       "Gained teaching experience by mentoring students at NIELIT in Python and JavaScript, delivering hands-on training and guiding them through real-world coding exercises and mini-projects.",
     ],
   },
+  {
+    title: "ML Trainee",
+    company_name: "NIELIT Kokrajhar EC",
+    icon: NIELIT,
+    iconBg: "#383E56",
+    date: "4th Apr 2025 - 30th Jun 2025",
+    points: [
+      "Performed literature reviews to identify relevant ML methods and benchmarks.",
+      "Collaborated with researchers and supported cross-functional teams in model development and data tasks."
+    ],
+  },
+  {
+    title: "Assistant Project Engineer",
+    company_name: "IIT Guwahati",
+    icon: IIT,
+    iconBg: "#383E56",
+    date: "21st Jul - Present",
+    points: [
+      "Developing multilingual speech and text corpora through custom tools for data acquisition, cleaning, annotation, and storage, supporting NLP and speech technology applications.",
+    ],
+  }
+  
 ];
 
 const papers = [
     {
     title: "A Dynamic Approach of Web Pages' Rendering based on Network Speed",
-    venue: "Accepted on IEEE GCON",
+    venue: "Presented on IEEE GCON",
     year: "2025",
     pages: "",
     link: "",
