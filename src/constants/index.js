@@ -177,10 +177,10 @@ const experiences = [
 const papers = [
     {
     title: "A Dynamic Approach of Web Pages' Rendering based on Network Speed",
-    venue: "Presented on IEEE GCON",
+    venue: "IEEE Guwahati Subsection Conference (GCON)",
     year: "2025",
-    pages: "",
-    link: "",
+    pages: "1-6",
+    link: "https://ieeexplore.ieee.org/document/11173364",
   },
   {
     title: "Impact of Augmented Reality : Applications in Education",
