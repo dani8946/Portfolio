@@ -179,7 +179,7 @@ const papers = [
     title: "A Dynamic Approach of Web Pages' Rendering based on Network Speed",
     venue: "IEEE Guwahati Subsection Conference (GCON)",
     year: "2025",
-    pages: "1-6",
+    pages: "pp. 1-6",
     link: "https://ieeexplore.ieee.org/document/11173364",
   },
   {
